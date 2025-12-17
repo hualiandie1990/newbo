@@ -1,35 +1,73 @@
 羊狮✨阿星▶️✨阿星,#genre#
-CCTV1✨阿星,http://221.233.192.152:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2✨阿星,http://221.233.192.152:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3✨阿星,http://221.233.192.152:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4✨阿星,http://221.233.192.152:1111/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5✨阿星,http://221.233.192.152:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+✨阿星,http://221.233.192.152:1111/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6✨阿星,http://221.233.192.152:1111/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7✨阿星,http://221.233.192.152:1111/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8✨阿星,http://221.233.192.152:1111/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9✨阿星,http://221.233.192.152:1111/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10✨阿星,http://221.233.192.152:1111/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11✨阿星,http://221.233.192.152:1111/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12✨阿星,http://221.233.192.152:1111/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13✨阿星,http://221.233.192.152:1111/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14✨阿星,http://221.233.192.152:1111/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15✨阿星,http://221.233.192.152:1111/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1 综合,https://migu.188766.xyz/?migutoken=f6f4cbca43639560e15dcee90bf812b3&id=CCTV1&type=yy
+CCTV-2 财经,https://migu.188766.xyz/?migutoken=d812ee770e6067cc6208734ed656d557&id=CCTV2&type=yy
+CCTV-3 综艺,https://migu.188766.xyz/?migutoken=0821839c1daee1a7fb479aeb687a9f42&id=CCTV3&type=yy
+CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=35a4672e60eca213cb81158b7fd3817f&id=CCTV4&type=yy
+CCTV-5 体育,https://migu.188766.xyz/?migutoken=c2bf14baaf88be58731575e750ba5320&id=CCTV5&type=yy
+CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=e01cdebf0326b12ce2dd078061c2d62a&id=CCTV5p&type=yy
+CCTV-6 电影,https://migu.188766.xyz/?migutoken=36733e1dfe7a3d106a9c0df1b2ab243c&id=CCTV6&type=yy
+CCTV-7 国防军事,https://migu.188766.xyz/?migutoken=cb2502dbacf4715fb26461bdff2a0d34&id=CCTV7&type=yy
+CCTV-8 电视剧,https://migu.188766.xyz/?migutoken=6a886541829f8c636265730b0974f503&id=CCTV8&type=yy
+CCTV-9 纪录,https://migu.188766.xyz/?migutoken=4217728e749b2fd5f313fbf02af9cae1&id=CCTV9&type=yy
+CCTV-10 科教,https://migu.188766.xyz/?migutoken=ac43394f9bf577bc204aa5477a1ab01d&id=CCTV10&type=yy
+CCTV-11 戏曲,https://migu.188766.xyz/?migutoken=c7dffe357e78bacacffdbdbc768f7182&id=CCTV11&type=yy
+CCTV-12 社会与法,https://migu.188766.xyz/?migutoken=56c4efa61104b4240d5d9b8d5f7e366c&id=CCTV12&type=yy
+CCTV-13 新闻,https://migu.188766.xyz/?migutoken=a242586a793bcf8f0da72dc2f2a9160b&id=CCTV13&type=yy
+CCTV-14 少儿,https://migu.188766.xyz/?migutoken=f94b8d46128b6fb3042d589549b66527&id=CCTV14&type=yy
+CCTV-15 音乐,https://migu.188766.xyz/?migutoken=c2779cbd94a5d3f8850bfe0326f92a51&id=CCTV15&type=yy
+CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=915965a3c209b4a3a9225ffecf328816&id=CCTV17&type=yy
+CCTV-4 中文国际 欧洲,https://migu.188766.xyz/?migutoken=bda91fc45ad75dfdac3148fe6a57044e&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=196c4ceab188a8fb789008ceec8498dc&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+
 
 📺️薇狮✨阿星▶️✨阿星,#genre#
-湖南卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视✨阿星,http://221.233.192.152:1111/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,https://migu.188766.xyz/?migutoken=d98a66de60a974abf77977c44168cc77&id=hnws&type=sz
+浙江卫视,https://migu.188766.xyz/?migutoken=1ef0d63d18fb4cdc61e05a13854891c3&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+浙江卫视,https://migu.188766.xyz/?migutoken=1b7e007f33912dc187f93ce42458ed02&id=z_jws&type=sz
+江苏卫视,https://migu.188766.xyz/?migutoken=91df9d2a17d987c24d3cf86361a28fd8&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+东方卫视,https://migu.188766.xyz/?migutoken=488cdc0ef3a7c569e1b25f795e5fab83&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+广东卫视,https://migu.188766.xyz/?migutoken=4c01a34de4efa339c9a69ce3ec1fc3c4&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+湖北卫视,https://migu.188766.xyz/?migutoken=d6cbf7626aa0ad0da379aa0530c00580&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+江西卫视,https://migu.188766.xyz/?migutoken=c433f29c2795649181790f711088db01&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+辽宁卫视,https://migu.188766.xyz/?migutoken=bda00b6442a22bc0de14ee842f07da58&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
+陕西卫视,https://migu.188766.xyz/?migutoken=704b156ee7b960ce0fe65317e2f2c572&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+河南卫视,https://migu.188766.xyz/?migutoken=96271814da6011e2d5eab777ac2950e7&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
+海南卫视,https://migu.188766.xyz/?migutoken=ceeba0e2e4b08b5da30b68ffdbdec181&id=hn_hnws&type=sz
+三沙卫视,https://migu.188766.xyz/?migutoken=c2b1268d710b144a997676175ebf4ef6&id=hn_ssws&type=sz
+吉林卫视,https://migu.188766.xyz/?migutoken=456b3d65ebdbafddd19e84cbf3b59b5d&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+青海卫视,https://migu.188766.xyz/?migutoken=06394828754550bab4f0a8c7f130f43b&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
+海南卫视,https://migu.188766.xyz/?migutoken=fdeb91aac6281449c967208affe46c7c&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+农林卫视,https://migu.188766.xyz/?migutoken=70b7aa18b5162c360fac63fd346096a0&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+内蒙古卫视,https://migu.188766.xyz/?migutoken=d2585999e370155acb192e0661a5283e&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+兵团卫视,https://migu.188766.xyz/?migutoken=44452c4b91bc6ef9e7f7dcba9524a847&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
+大湾区卫视,https://migu.188766.xyz/?migutoken=2ef9046f4ce781084541ab9771f99faf&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+湖南卫视4K,https://migu.188766.xyz/?migutoken=4ba9384f7920b421cfddae88625629e3&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视4K,https://migu.188766.xyz/?migutoken=70af0e49d45b6c50acd3b387dfa4a55f&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+东方卫视4K,https://migu.188766.xyz/?migutoken=356b082420a883b8d8255cec2f361c19&id=dfws&type=sz
+北京卫视4K,https://migu.188766.xyz/?migutoken=b01e388d029896299f411fd607740c33&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+深圳卫视4K,https://migu.188766.xyz/?migutoken=68c734fed77e2ddd639e4df56e5f272e&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+
+
+📺️岗台✨阿星▶️✨阿星,#genre#
+凤凰中文,https://mgev.188766.xyz/?migutoken=4c8e2b0ec6c655d6208e100a6a091572&id=fhzw&pp=1
+凤凰中文,https://mgev.188766.xyz/?migutoken=1ba54abb1e7937c1e9fc08ec665725af&id=hk_fhzw&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=bb54ff9853cc417dc000b78afe5e2420&id=fhzx&pp=1
+凤凰资讯,https://mgev.188766.xyz/?migutoken=1325fe707653be53cfbfda81d4c29a7b&id=hk_fhzx&type=dy
+凤凰香港,https://mgev.188766.xyz/?migutoken=d4633a17a8ef8587a9ab769922d2dadc&id=fhhk&pp=1
+凤凰香港,https://mgev.188766.xyz/?migutoken=d1215a06a7dbc137326107d94283843b&id=hk_fhhk&type=dy
+翡翠台,https://mgev.188766.xyz/?migutoken=c16b675b3c0b5b68e43add3c51f85843&id=hk_fct&type=dy
+翡翠台4K,https://mgev.188766.xyz/?migutoken=075c1c79386db75034ade0497cdd033f&id=hk_fct4k&type=dy
+无线新闻,https://mgev.188766.xyz/?migutoken=70d4e447bb66b2f7b7ad0b19b9d787aa&id=hk_wxxw&type=dy
+Now新闻台,https://mgev.188766.xyz/?migutoken=7d97592cc33177a02c74cfae87f5a4d5&id=hk_now&type=dy
+TVB Plus,https://mgev.188766.xyz/?migutoken=8a3bad10215b48d8c27438bd67d22d09&id=hk_tvbp&type=dy
+明珠台,https://mgev.188766.xyz/?migutoken=a556fb1cf5e2777de413aa0fd8325f82&id=hk_mzt&type=dy
+TVB星河,https://mgev.188766.xyz/?migutoken=fbddd42b5dfdecfd76500879ee7f9574&id=hk_tvbxh&type=dy
+TVB功夫,https://mgev.188766.xyz/?migutoken=414c3f851c1e65546e16e880adae06c5&id=hk_yzwx&type=dy
+八度空间,https://mgev.188766.xyz/?migutoken=3aee70fc43124c3b099c8000a2052272&id=hk_8tv&type=dy
+CHU,https://mgev.188766.xyz/?migutoken=5c927f35c0062cc96f5c46b280cef9c6&id=hk_chu&type=dy
+CH5,https://mgev.188766.xyz/?migutoken=a87ffb47bb6ea51440140bfdc76594ac&id=hk_ch5&type=dy
+CH8,https://mgev.188766.xyz/?migutoken=60f5c16e8f6463afa78d78f1b71d6bd6&id=hk_ch8&type=dy
+澳视澳门,https://mgev.188766.xyz/?migutoken=1f7b795eb75817676909c5b5a2f967b5&id=hk_asam&type=dy
+HOY77,https://mgev.188766.xyz/?migutoken=85e0c58508b11d0751932857e07e1363&id=hk_hoy&type=dy
